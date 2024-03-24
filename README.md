@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Gropled&size=45&center=true&vCenter=true&width=500&height=70&duration=3900&color=5D53C9FF&lines=Hi+There!+👋;+I'm+Arthicsu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Gropled&size=45&center=true&vCenter=true&width=500&height=70&duration=3900&color=6B60E7&lines=Hi+There!+👋;+I'm+Arthicsu!;" />
 </h1>
 
 <h3 align="center" > :heart_eyes_cat: Немного о себе: :heart_eyes_cat:</h3> 
@@ -29,13 +29,15 @@
   <br/><br/>
 </div>
 
+
 ### 📣 Если у вас есть вопросы или вы хотите обсудить сотрудничество, свяжитесь со мной:
 [![Telegram Badge](https://img.shields.io/badge/-Arthicsu-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arthicsu)
 [![Discord Badge](https://img.shields.io/badge/-Arthicsu-5865F2?style=flat&logo=discord&logoColor=white)](arthicsu)
 [![Gmail Badge](https://img.shields.io/badge/-rusquercus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rusquercus@gmail.com)](mailto:rusquercus@gmail.com)
 ### 💬 Социальные сети:
 [![Telegram Badge](https://img.shields.io/badge/-Arthicsu-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arthicsu)
-[![VK Badge](https://img.shields.io/badge/-VK-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.com/nroschin87) <br>
+[![VK Badge](https://img.shields.io/badge/-VK-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.com/nroschin87) 
+<br/><br/>
 Не стесняйтесь связаться со мной! Я всегда рад новым знакомствам и проектам 😎
 <br/>
 <div align="left">
